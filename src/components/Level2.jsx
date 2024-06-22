@@ -217,7 +217,7 @@ const Level2 = () => {
             {errors.preferredInterviewTime && <p className="text-red-500 text-sm">{errors.preferredInterviewTime}</p>}
 
             <div className='mt-6 w-full flex justify-center items-center'>
-              <button type="submit" className='bg-[#588157] text-xl pt-1 pb-1 pl-4 pr-4 rounded-full'>Submit</button>
+              <button type="submit" className='bg-[#588157] text-white pt-2 pb-2 pl-4 pr-4 rounded-lg text-xl'>Submit</button>
             </div>
           </form>
         </div>
