@@ -2,7 +2,7 @@
 Different forms based on certain conditions.
 
 ## Types of Forms
-There are 3 Levels from basic to advanced data fetching.
+There are 3 Levels from basic to advanced data fetching and based on certain conditions. 
 
 ## Steps to Run the website
 1. Download the files or clone the git repository to your local system.
